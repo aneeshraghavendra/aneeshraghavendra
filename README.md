@@ -1,20 +1,22 @@
 <br/>
 <div align="center">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/029/711/176/small_2x/developer-with-ai-generated-free-png.png" align="center" style="width: 10%; height: 10%;" />
+    <br><br/>
+    <p> <img src="https://komarev.com/ghpvc/?username=aneeshraghavendra&label=Profile%20views&color=0e75b6&style=flat-square" alt="aneeshraghavendra" /> </p>
 </div>
 <br/>  
 
 <div align="center" style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 20px;">
-  <p>
-    Hi, I'm Aneesh Raghavendra, a dedicated and passionate Full Stack Developer with 4+ years of experience in the IT industry. 
-    I specialize in Python, JavaScript, and their respective frameworks, including Django RF, Django CMS, Contentful CMS,
-    Next.js. Throughout my career, I’ve consistently built, optimized, and managed robust web applications, delivering high-quality solutions.
-  </p>
+    <p>
+        Hi, I'm Aneesh Raghavendra, a dedicated and passionate Full Stack Developer with 4+ years of experience in the IT industry. 
+        I specialize in Python, JavaScript, and their respective frameworks, including Django RF, Django CMS, Contentful CMS,
+        Next.js. Throughout my career, I’ve consistently built, optimized, and managed robust web applications, delivering high-quality solutions.
+    </p>
 </div>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools used:</h3>
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
