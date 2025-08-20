@@ -4,7 +4,7 @@
     <br><br/>
     <p> <img src="https://komarev.com/ghpvc/?username=aneeshraghavendra&label=Profile%20views&color=0e75b6&style=flat-square" alt="aneeshraghavendra" /> </p>
 </div>
-<br/>  
+<br/>
 
 <div align="center" style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 20px;">
     <p>
@@ -55,12 +55,11 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
-  <a href="mailto:aneeshraghavendra85@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" 
-         alt="Gmail Badge" style="margin-bottom: 5px; height:27px;" />
+<p align="center">
+  <a href="https://in.linkedin.com/in/aneesh-raghavendra">
+    <img src="https://img.shields.io/badge/LinkedIn-Aneesh%20Raghavendra-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://linkedin.com/in/aneesh-raghavendra" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="mailto:aneeshraghavendra.1998@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-aneeshraghavendra.1998%40gmail.com-red?style=flat&logo=gmail" />
   </a>
-</div>
+</p>
